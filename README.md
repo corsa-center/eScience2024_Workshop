@@ -1,1 +1,1 @@
-# eScience2024_Workshop
+# eScience2024_workshop
